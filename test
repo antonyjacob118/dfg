@@ -1,0 +1,10 @@
+import something.*
+class pooda
+{
+   gunda Arya;
+   public getArya()
+   {
+       echo" arya kku input kodukku..."
+       rea_d input;
+   }
+}
